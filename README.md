@@ -1,12 +1,11 @@
 # 💫 About Me:
 👋 Hi, I'm Pratik Khot — a passionate Software Developer with a love for coding 💻 and problem-solving 🧠.
-💡 Proficient in Java, JavaScript, and frameworks like Hibernate, Spring, and Spring Boot, I thrive on turning complex ideas into elegant, user-friendly solutions.
-
 🎓 B.Sc. in Information Technology, University of Mumbai
-💻 Java Developer | Backend & Full-Stack Enthusiast
 
-👋 I'm Pratik Khot, a Java Developer with a B.Sc. in IT from the University of Mumbai. I specialize in building scalable backend systems using Java, Spring Boot, and MySQL, with frontend skills in HTML, CSS, JavaScript, and Bootstrap.
-💡 Experienced in JSP, Servlets, JDBC, Multithreading, Collections, and frameworks like Hibernate and Spring MVC. I use tools like Git, GitHub, IntelliJ, Eclipse, and VS Code, and write clean, testable code with JUnit passionate about tech, problem-solving, and contributing to meaningful projects.
+💻 Java Developer | Backend & Full-Stack Enthusiast
+💡Java Developer with a B.Sc. in IT from the University of Mumbai. I specialize in building scalable backend systems using Java, Spring Boot, and MySQL, with frontend skills in HTML, CSS, JavaScript, and 
+  Bootstrap. Experienced in JSP, Servlets, JDBC, Multithreading, Collections, and frameworks like Hibernate and Spring MVC. I use tools like Git, GitHub, IntelliJ, Eclipse, and VS Code, and write clean, testable 
+  code with JUnit passionate about tech, problem-solving, and contributing to meaningful projects.
 
 🚀 Passionate about building scalable applications and writing clean, efficient code. Always eager to learn and contribute to exciting projects!
 
